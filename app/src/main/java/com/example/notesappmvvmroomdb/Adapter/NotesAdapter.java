@@ -63,7 +63,7 @@ public class NotesAdapter extends RecyclerView.Adapter<NotesAdapter.notesViewHol
         holder.itemView.setOnLongClickListener(new View.OnLongClickListener() {
             @Override
             public boolean onLongClick(View view) {
-
+//Making intents
                 Intent intent = new Intent(view.getContext(), UpdateNoteActivity.class);
                 intent.putExtra("oldPriority",note.notesPriority);
                 intent.putExtra("oldTitle",holder.notesTitleTextView.getText().toString());
