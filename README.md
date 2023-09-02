@@ -12,7 +12,8 @@ A simple Android app for managing notes, demonstrating the MVVM architecture, Ro
 ## Screenshots
 
 
-![IMG-20230902-WA0002](https://github.com/Darpan2004/Notes-App/assets/126506854/d980af39-b35e-4f0a-9446-19468ee6d0dc|width=10)
+<img src="https://github.com/Darpan2004/Notes-App/assets/126506854/d980af39-b35e-4f0a-9446-19468ee6d0dc" width="300">
+
 *Screenshot 1: Add a New Note*
 
 
