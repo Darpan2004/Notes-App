@@ -1,8 +1,10 @@
 <div align="center">
-  <h1>Your App's Name</h1>
+  <h1>Notes App</h1>
 </div>
 A simple Android app for managing notes, demonstrating the MVVM architecture, Room database integration, and data binding.
-
+<div align="center">
+  <h2>A user friendly Notes App with multiple features</h2>
+</div>
 ## Features
 
 - Create, read, update, and delete notes.
